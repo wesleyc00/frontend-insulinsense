@@ -1,2 +1,2 @@
 # frontend-insulinsense
-Parte do front end do sistema do Insulinsense
+front-end for an insulin sensitivity calculation platform for type 2 diabetics
